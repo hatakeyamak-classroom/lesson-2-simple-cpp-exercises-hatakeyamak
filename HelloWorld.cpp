@@ -2,6 +2,6 @@
 
 int main() {
     // enter your Hello World! program here
-    printf("Hello World!");
+    std::cout << "Hello World!" << std::endl;
     
 }
